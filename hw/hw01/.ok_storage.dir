@@ -1,0 +1,5 @@
+'largest_factor-correct', (0, 66)
+'invert_short-correct', (512, 66)
+'change_short-correct', (1024, 66)
+'hailstone-correct', (1536, 66)
+'quine_test-correct', (2048, 66)
